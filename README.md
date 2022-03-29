@@ -1,6 +1,8 @@
 # FakeNews
 Fake news detector: Project 1 for Software Development for AI
 
+** Contact me for tfidf.pkl file as it was too large to upload here. The project will not run without it. 
+
 To Run:
 1. download all files and place in the same directory
 2. make sure the index.html file is inside the Templates folder which is in the root directory
