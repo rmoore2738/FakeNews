@@ -1,7 +1,7 @@
 # FakeNews
 Fake news detector: Project 1 for Software Development for AI
 
-** Contact me for tfidf.pkl file as it was too large to upload here. The project will not run without it. 
+** Don't forget to retrieve the tfidfvec.pkl file from my google drive **
 
 To Run:
 1. download all files and place in the same directory
